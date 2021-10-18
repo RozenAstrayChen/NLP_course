@@ -1,0 +1,6 @@
+*.txt
+data/*.txt
+data/*.arpa
+.ipynb_checkpoints/*
+.DS_Store
+*.pdf
