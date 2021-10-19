@@ -4,3 +4,5 @@ data/*.arpa
 .ipynb_checkpoints/*
 .DS_Store
 *.pdf
+*.tsv
+skip_gram/*
